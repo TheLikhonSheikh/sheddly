@@ -14,15 +14,9 @@ const ruPromoAdditionsArray = [
     links: [
       {
       prefix: ' ',
-      text: '1inch Network',
+      text: 'LetStudy',
       postfix: ' ',
-      link: 'http://1inch.io/?utm_source=shieldy_ru&utm_medium=cpc&utm_campaign=powered'
-      },
-      {
-      prefix: '(',
-      text: 'iOS',
-      postfix: ')',
-      link: 'https://apps.apple.com/app/apple-store/id1546049391?pt=122481420&ct=shieldy_ru&mt=8'
+      link: 'https://letstudy.io/?utm_source=shieldy_ru&utm_medium=cpc&utm_campaign=powered'
       }
     ],
     postlinks: '',
@@ -35,15 +29,9 @@ const enPromoAdditionsArray = [
     links: [
       {
       prefix: ' ',
-      text: '1inch Network',
+      text: 'LetStudy',
       postfix: ' ',
-      link: 'http://1inch.io/?utm_source=shieldy_en&utm_medium=cpc&utm_campaign=powered'
-      },
-      {
-      prefix: '(',
-      text: 'iOS',
-      postfix: ')',
-      link: 'https://apps.apple.com/app/apple-store/id1546049391?pt=122481420&ct=shieldy_en&mt=8'
+      link: 'https://letstudy.io/?utm_source=shieldy_en&utm_medium=cpc&utm_campaign=powered'
       }
     ],
     postlinks: '',
